@@ -6,6 +6,6 @@ class Employee
 	}
 	public void Eat()
 	{
-		Syste.out.println("He is eating");
+		System.out.println("He is eating");
 	}
 }
