@@ -4,4 +4,8 @@ class Employee
 	{
 		System.out.println("He is working");
 	}
+	public void Eat()
+	{
+		Syste.out.println("He is eating");
+	}
 }
